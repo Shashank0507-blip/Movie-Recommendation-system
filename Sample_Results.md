@@ -2,7 +2,7 @@
 
 Enter a movie title: Udaan. **(This is a user input)**
 
-## **This is provided by the system**
+## **This is provided by the system**:
 ## **Movies similar to 'Udaan':**
 * The Shawshank Redemption (Directed by Frank Darabont)
 * Fight Club (Directed by David Fincher)
