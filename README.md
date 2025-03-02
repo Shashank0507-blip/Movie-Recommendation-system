@@ -15,4 +15,4 @@ This project implements a Movie Recommendation System using K-Means Clustering t
 
 Once clustering is complete, users can input a movie title, and the system will identify its cluster and recommend other movies from the same group. These recommendations include the movie title and director's name, making it easier for users to discover films with similar themes or creative styles. The project is implemented using Python, leveraging libraries such as pandas and NumPy for data handling, scikit-learn for clustering, and Matplotlib & Seaborn for visualization.
 
-## **Link to download the dataset: https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows**
+### **Link to download the dataset: https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows**
