@@ -1,7 +1,7 @@
 ## **This is an example of how the output of the code would look like:**
 
-Enter a movie title: Udaan. **(For example)**
-a
+Enter a movie title: Udaan. **(This is a user input)**
+
 ## **Movies similar to 'Udaan':**
 * The Shawshank Redemption (Directed by Frank Darabont)
 * Fight Club (Directed by David Fincher)
