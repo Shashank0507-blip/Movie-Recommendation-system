@@ -6,7 +6,7 @@ This project implements a Movie Recommendation System using K-Means Clustering t
 * The K-Means algorithm is applied to group similar movies.
 * The user enters a movie title, and the system suggests similar movies from the same cluster.
 
-## **Features: **
+## **Features:**
 * Uses K-Means Clustering to group movies based on genre similarity.
 * Provides personalized movie recommendations by finding similar films within the same cluster.
 * Displays the recommended movie titles along with their directors.
